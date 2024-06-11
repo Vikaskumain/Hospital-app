@@ -1,0 +1,487 @@
+body{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.logo {
+  font-family: Source Sans Pro;
+  font-size: 34px;
+  font-weight: 700;
+  line-height: 42.74px;
+  text-align: left;
+}
+.span1 {
+  font-family: Source Sans Pro;
+  font-size: 34px;
+  font-weight: 700;
+  line-height: 42.74px;
+  text-align: left;
+}
+.header {
+  width: 1440px;
+  height: 90px;
+  margin: auto;
+}
+.navbar {
+  width: 336px;
+  height: 20px;
+  top: 40px;
+  left: 667px;
+  gap: 0px;
+  opacity: 0px;
+}
+.btn {
+  width: 170px;
+  height: 50px;
+  top: 25px;
+  left: 1083px;
+  gap: 0px;
+  opacity: 0px;
+}
+.box {
+  background: rgba(235, 238, 255, 1);
+
+  width: 574px;
+  height: 672px;
+  top: 141px;
+  left: 745px;
+  gap: 0px;
+  opacity: 0px;
+}
+.Heading1 {
+  width: 330px;
+  height: 30px;
+  top: 284px;
+  left: 120px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Source Sans Pro;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 30.17px;
+  text-align: left;
+}
+.Heading2 {
+  font-family: Source Sans Pro;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 30.17px;
+  text-align: left;
+  font-family: Source Sans Pro;
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 78px;
+  text-align: left;
+  color: rgba(0, 59, 121, 1);
+}
+.para {
+  width: 546px;
+  height: 122px;
+  top: 444px;
+  left: 120px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Source Sans Pro;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 39px;
+  text-align: left;
+  color: rgba(0, 35, 72, 1);
+}
+.btn1 {
+  width: 259px;
+  height: 60px;
+  top: 610px;
+  left: 120px;
+  gap: 0px;
+  opacity: 0px;
+}
+.btn2 {
+  width: 259px;
+  height: 60px;
+  top: 610px;
+  left: 403px;
+  gap: 0px;
+  opacity: 0px;
+}
+.feture {
+  
+  top: 999px;
+  left: 441px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Source Sans Pro;
+  font-size: 54px;
+  font-weight: 600;
+  line-height: 78px;
+  text-align: center;
+  color: rgba(0, 35, 72, 1);
+}
+.para1 {
+ 
+  top: 1111px;
+  left: 447px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Source Sans Pro;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 39px;
+  text-align: center;
+}
+.box1 {
+  width: 273px;
+  height: 323px;
+  
+  gap: 0px;
+  opacity: 0px;
+  box-shadow: 0px 10px 50px 25px rgba(0, 59, 121, 0.0726);
+}
+.box2 {
+  width: 273px;
+  height: 373px;
+  top: 1258px;
+  left: 429px;
+  gap: 0px;
+  opacity: 0px;
+  box-shadow: 0px 10px 50px 25px rgba(0, 126, 243, 0.2605);
+}
+.box3 {
+  width: 273px;
+  height: 323px;
+  top: 1258px;
+  left: 738px;
+  gap: 0px;
+  opacity: 0px;
+  box-shadow: 0px 10px 50px 25px rgba(0, 59, 121, 0.0726);
+}
+.box4 {
+  width: 273px;
+  height: 323px;
+  top: 1258px;
+  left: 1047px;
+  gap: 0px;
+  opacity: 0px;
+  box-shadow: 0px 10px 50px 25px rgba(0, 59, 121, 0.0726);
+}
+.Dental {
+  width: 114px;
+  height: 128px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  color: rgba(0, 125, 242, 1);
+}
+.dental-heading {
+  width: 123px;
+  height: 30px;
+  top: 1481px;
+  font-family: Source Sans Pro;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 30.17px;
+ 
+}
+.pulmonary{
+  width: 128px;
+height: 115px;
+top: 1304px;
+left: 469px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+
+}
+
+.pulmonary-name{
+  width: 118px;
+height: 30px;
+top: 1481px;
+left: 463px;
+gap: 0px;
+opacity: 0px;
+font-family: Source Sans Pro;
+font-size: 24px;
+font-weight: 700;
+line-height: 30.17px;
+text-align: left;
+color: white;
+
+}
+.nerulogical{
+  width: 135px;
+height: 30px;
+top: 1481px;
+left: 772px;
+gap: 0px;
+opacity: 0px;
+font-family: Source Sans Pro;
+font-size: 24px;
+font-weight: 700;
+line-height: 30.17px;
+text-align: left;
+color: rgba(0, 35, 72, 1);
+
+}
+
+
+.img-box {
+  width: 282px;
+  height: 236px;
+  top: 2079px;
+  left: 724px;
+  gap: 0px;
+  opacity: 0px;
+  box-shadow: 0px 10px 50px 25px rgba(0, 59, 121, 0.0726);
+}
+.servics-heading {
+  width: 559px;
+  height: 78px;
+  top: 2264px;
+  left: 120px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Source Sans Pro;
+  font-size: 54px;
+  font-weight: 600;
+  line-height: 78px;
+  text-align: left;
+  color: rgba(0, 59, 121, 1);
+}
+.servics-para {
+  width: 546px;
+  height: 78px;
+  top: 2376px;
+  left: 120px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Source Sans Pro;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 39px;
+  text-align: left;
+  color: rgba(0, 35, 72, 1);
+}
+.servics-btn {
+  width: 186px;
+  height: 60px;
+  top: 2498px;
+  left: 123px;
+  gap: 0px;
+  opacity: 0px;
+}
+.doctor-img {
+  width: 180px;
+  height: 200px;
+  top: 1963px;
+  left: 749px;
+  gap: 0px;
+  opacity: 0px;
+}
+.img-box {
+  background: rgba(255, 255, 255, 1);
+  width: 282px;
+  height: 236px;
+  left: 724px;
+  gap: 0px;
+  opacity: 0px;
+  box-shadow: 0px 10px 50px 25px rgba(0, 59, 121, 0.0726);
+}
+.doctor-img1 {
+  width: 180px;
+  height: 200px;
+  top: 1963px;
+  left: 749px;
+  gap: 0px;
+  opacity: 0px;
+}
+.img-box1 {
+  background: rgba(255, 255, 255, 1);
+  width: 282px;
+  height: 236px;
+  left: 724px;
+  gap: 0px;
+  opacity: 0px;
+  box-shadow: 0px 10px 50px 25px rgba(0, 59, 121, 0.0726);
+}
+.doctor-img2 {
+  width: 180px;
+  height: 200px;
+  top: 1963px;
+  left: 749px;
+  gap: 0px;
+  opacity: 0px;
+}
+.img-box2 {
+  background: rgba(255, 255, 255, 1);
+  width: 282px;
+  height: 236px;
+  left: 724px;
+  gap: 0px;
+  opacity: 0px;
+  box-shadow: 0px 10px 50px 25px rgba(0, 59, 121, 0.0726);
+}
+.doctor-text {
+  width: 179px;
+  height: 30px;
+  top: 2233px;
+
+  gap: 0px;
+  opacity: 0px;
+  font-family: Source Sans Pro;
+  font-size: 24px;
+  font-weight: 550;
+  line-height: 30.17px;
+  text-align: center;
+  color: rgba(0, 35, 72, 1);
+}
+.news-heading {
+  gap: 0px;
+  opacity: 0px;
+  font-family: Source Sans Pro;
+  font-size: 54px;
+  font-weight: 600;
+  line-height: 78px;
+  color: rgba(0, 59, 121, 1);
+}
+.news-para {
+  gap: 0px;
+  opacity: 0px;
+  font-family: Source Sans Pro;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 39px;
+  color: rgba(0, 35, 72, 1);
+}
+.outsidebox {
+  width: 274px;
+  height: 420px;
+  top: 3346px;
+  left: 120px;
+  gap: 0px;
+  opacity: 0px;
+  background: #ede7e7;
+}
+
+.inside-box {
+  width: 274px;
+  height: 324px;
+  top: 3346px;
+  left: 120px;
+  gap: 0px;
+  border-radius: 20px 20px 0px 0px;
+  opacity: 0px;
+  background: rgba(174, 211, 226, 1);
+}
+.boxx-heading {
+  font-family: Source Sans Pro;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 30.17px;
+  color: rgba(0, 35, 72, 1);
+}
+.boxx-para {
+  font-family: Source Sans Pro;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22.63px;
+  color: rgba(0, 35, 72, 1);
+}
+.coustmores {
+  opacity: 0px;
+  background: rgba(248, 253, 255, 1);
+}
+.coustomres-heading {
+  font-family: Source Sans Pro;
+  font-size: 54px;
+  font-weight: 600;
+  line-height: 78px;
+  color: rgba(0, 59, 121, 1);
+}
+.testmonial {
+   width: 580px; 
+  height: 310px;
+  opacity: 0px;
+  background: rgba(255, 255, 255, 1);
+  box-shadow: 0px 10px 50px 25px rgba(0, 59, 121, 0.0726);
+} 
+.testmonial-para {
+  font-family: Source Sans Pro;
+  font-size: 15px;
+  font-weight: 530;
+  line-height: 39px;
+  color: rgba(0, 35, 72, 1);
+}
+.testmonial-name {
+  opacity: 0px;
+  font-family: Source Sans Pro;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 30.17px;
+  color: rgba(0, 35, 72, 1);
+}
+.testmonial-para1 {
+  font-family: Source Sans Pro;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 22.63px;
+  color: rgba(0, 35, 72, 1);
+} 
+.outsidediv{
+  width: 1198px;
+height: 478px;
+top: 4680px;
+left: 121px;
+gap: 0px;
+opacity: 0px;
+background: rgba(0, 127, 244, 1);
+
+}
+.heading-outsidediv{
+ 
+ 
+  gap: 0px;
+  opacity: 0px;
+  font-family: Source Sans Pro;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 78px;
+  
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+}
+.heading-outsidediv-para{
+  
+  
+  gap: 0px;
+  opacity: 0px;
+  font-family: Source Sans Pro;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 39px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+}
+.form-div{
+  width: 846px;
+height: 120px;
+background-color: whitesmoke;
+}
+.form-input{
+  width: 546px;
+height: 44px;
+top: 4973px;
+font-family: Source Sans Pro;
+font-size: 20px;
+font-weight: 400;
+line-height: 39px;
+color: rgba(155, 155, 155, 1);
+}
+.form-btn{
+  width: 176px;
+height: 60px;
+top: 4956px;
+left: 946px;
+gap: 0px;
+opacity: 0px;
+
+}
